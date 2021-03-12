@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  max-width: 500px;
+  margin: auto;
+}
+
+.intro {
+  font-size: 2.0rem;
+  width: 800px;
+  margin: 0;
+  color: white;
+  margin-top: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+
+.subtext {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  height: 60px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
